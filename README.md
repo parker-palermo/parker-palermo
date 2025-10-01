@@ -1,6 +1,7 @@
 ## Hi there, I'm Parker 👋
 📚 I study **Computer Science, Applied Mathematics, and Economics** at Vanderbilt University
-📌 I am interested in quantitative finance and AI/ML applications, especially:
+
+📌 I am interested in **quantitative finance** and **AI/ML applications**, especially:
 - Reinforcement Learning
 - Trading Strategies
 - Risk modeling
